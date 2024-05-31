@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Semestral Project - Game Manager Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0b2f12ab938bdd931a81eb6f8b6b3c9923a72e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57dd9b0eaddc2f486eebeb4bcbd446630412cd91")]
 [assembly: System.Reflection.AssemblyProductAttribute("Semestral Project - Game Manager Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Semestral Project - Game Manager Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
