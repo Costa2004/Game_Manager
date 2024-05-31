@@ -1,0 +1,45 @@
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.AssemblyInfoInputs.cache
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.AssemblyInfo.cs
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.csproj.CoreCompileInputs.cache
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.exe
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.deps.json
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.runtimeconfig.json
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.pdb
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\refint\Semestral Project - Game Manager Application.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.pdb
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.genruntimeconfig.cache
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\ref\Semestral Project - Game Manager Application.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.csproj.AssemblyReference.cache
+C:\Users\costa\source\repos\Game Manager Application Sol\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestra.3059DBD9.Up2Date
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.exe
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.deps.json
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.runtimeconfig.json
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.dll
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\Semestral Project - Game Manager Application.pdb
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.dll
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.csproj.AssemblyReference.cache
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.AssemblyInfoInputs.cache
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.AssemblyInfo.cs
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.csproj.CoreCompileInputs.cache
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.sourcelink.json
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestra.3059DBD9.Up2Date
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.dll
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\refint\Semestral Project - Game Manager Application.dll
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.pdb
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\Semestral Project - Game Manager Application.genruntimeconfig.cache
+C:\Users\costa\Source\Repos\Costa2004\Game_Manager\Semestral Project - Game Manager Application\obj\Debug\net8.0\ref\Semestral Project - Game Manager Application.dll

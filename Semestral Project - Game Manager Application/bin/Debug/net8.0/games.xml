@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameList>
+  <Game>
+    <Name>Mega Man Battle Network 2</Name>
+    <Genre>Tactical RPG</Genre>
+    <Price>140</Price>
+  </Game>
+  <Game>
+    <Name>GTA</Name>
+    <Genre>Mission</Genre>
+    <Price>2000000</Price>
+  </Game>
+</GameList>
